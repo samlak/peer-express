@@ -9,7 +9,7 @@ export default function Home() {
           <title>Peer Express</title>
         </Head>
         <SendMoney />
-        {/* <PaymentInfo /> */}
+        <PaymentInfo />
     </div>
   )
 }
